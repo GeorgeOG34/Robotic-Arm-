@@ -1,5 +1,5 @@
 # Robotic-Arm-
-This was built using a raspberry pi, 4 servos (2x 7kg & 2x 20kg), a PCA9685 and a 3D printer
+This was built using a raspberry pi, 4 servos (2x 7kg & 2x 35kg), a PCA9685 and a 3D printer
 
 arm.py is the GUI controls, which will run on the raspberry pi.
 The arm works by having two "joints" a shoulder and an elbow. For the program to work with no editing, ensure the following servos are connected to the correct positions on the PCA9685:
