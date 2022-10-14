@@ -13,3 +13,5 @@ Using the program:
 There are 8 buttons, 4 for each joint, 2 for each servo. 
 The buttons on the GUI are layed out like two lots of WASD.
 Simply, input a number into the text area and click a button, and that servo will move.
+
+Here you can see my robotic arm working. I'm using a custom physical controller in this video to control it as opposed to the GUI controller in this repository, but its still the same arm: https://imgur.com/a/mAmrH7h
